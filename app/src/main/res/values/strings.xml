@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppPersonas</string>
+    <string name="BotonFormulario">Formulario Empleados</string>
+    <string name="tvPrincipal">Personas Empleadas</string>
+
+    <string-array name="TipoDocumento_array">
+        <item>Cedula Ciudadania</item>
+        <item>Cedula Extranjeria</item>
+        <item>Permiso Especial de Permanencia</item>
+
+    </string-array>
+</resources>
