@@ -20,4 +20,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(FormularioEmpleado);
     }
 
+    public void pagoAct(View view){
+        Intent pay = new Intent(this, PaypalClient.class);
+        startActivity(pay);
+    }
+
 }
